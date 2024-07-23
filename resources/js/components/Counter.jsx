@@ -9,7 +9,7 @@ const Counter = () => {
 
     return (
         <>
-            <h2>Counter</h2>
+            <h2>Counter123</h2>
             <p>Count:{count}</p>
             <button onClick={addCount}>Add</button>
         </>
